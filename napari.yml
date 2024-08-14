@@ -13,4 +13,4 @@ dependencies:
   - cellpose==2.2.3
   - nbformat
   - seaborn
-prefix: /opt/homebrew/Caskroom/miniforge/base/envs/napari-env
+
